@@ -34,7 +34,7 @@ As BI Analyst PT Sejahtera Bersama, we want to create a master table including s
 - product category name (category_name)
 - total sales (total_sales)
 
-The result could be shown in this table https://github.com/ATHIFAHS/BI-Analyst-Project-1/blob/main/Customers.csv.
+The result could be shown in this table https://github.com/ATHIFAHS/BI-Analyst-Project-1/blob/main/master key.csv.
 ### Task 4
 From the result of the table that we created from task 3, save the result in csv, and using looker studio create the data visualization which shows the sales data. The data visualization must contain a minimum:
 - total sales
@@ -44,10 +44,10 @@ From the result of the table that we created from task 3, save the result in csv
 - total quantity based the city
 - top 5 category product with the highest sales
 - top 5 category product with the highest quantity
-
+#### Dashboard
 The dashboard that I created using Looker Data Studio could be shown in the picture below.
 ![Image](https://github.com/user-attachments/assets/f2f6090c-f3b4-4ecc-8d20-06981a9304ca)
-
+#### Data Storytelling
 From our database, there are some insights that we could take.
 ### Task 5
 As BI Analyst of PT Sejahtera Bersama, what could we suggest to maintain or increase our sales with the detailed transaction table that is already available?
