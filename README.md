@@ -22,6 +22,7 @@ Determine the primary key of each table.
 Check the uniqueness of each primary key using query in BigQuery.
 ### Task 2
 Examine the relationship among the four tables. The Relationship Diagram (ERD) of the tables could be shown in the picture below
+
 ![Image](https://github.com/user-attachments/assets/44662149-2dd2-4439-a238-96cd2fcc1d9f)
 ### Task 3
 As BI Analyst PT Sejahtera Bersama, we want to create a master table including some information as follows :
@@ -45,7 +46,7 @@ From the result of the table that we created from task 3, save the result in csv
 - top 5 category product with the highest sales
 - top 5 category product with the highest quantity
 #### Dashboard
-The dashboard I created using Looker Data Studio is shown in the picture below.
+The dashboard I created using Looker Data Studio is shown in the picture below
 ![Image](https://github.com/user-attachments/assets/f2f6090c-f3b4-4ecc-8d20-06981a9304ca)
 #### Data Storytelling
 From our database, there are some insights that we could take.
