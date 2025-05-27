@@ -1,4 +1,4 @@
-# Final Project: Business Intelligence Analyst
+# Final Project: Digital User Churn Dashboard (Business Intelligence Analyst)
 
 This project is the final project of the Project-Based Virtual Internship Program with a specialization in Business Analyst, conducted by Rakamin x Bank Muamalat, from May 5, 2025, to June 2, 2025. 
 
