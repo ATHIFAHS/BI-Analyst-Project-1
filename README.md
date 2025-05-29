@@ -44,7 +44,7 @@ From the result of the table that we created from task 3, save the result in csv
 - top 5 category product with the highest quantity
 #### Dashboard
 The dashboard I created using Looker Data Studio is shown in the picture below
-
+![Image](https://github.com/user-attachments/assets/4c58e5bf-a736-4ac5-8d5a-2e913ef66a66)
 #### Data Storytelling
 From our database, there are some insights that we could take.
 ### Task 5
