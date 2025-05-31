@@ -22,7 +22,7 @@ The company's main database structure consists of four tables: customers, produc
 - Product categories: a total row count of 7 records
 
 The entity relationship diagram (ERD) shown below
-[https://github.com/ATHIFAHS/BI-Analyst-Project-1/blob/main/ERD.png](https://github.com/ATHIFAHS/BI-Analyst-Project-1/blob/3024ace79d2bd0aecf468381cdbaf07029911d97/ERD.png)
+![image alt](https://github.com/ATHIFAHS/BI-Analyst-Project-1/blob/3024ace79d2bd0aecf468381cdbaf07029911d97/ERD.png)
 
 Description from the Entity Relationship Diagram
 - Customers.CustomerID → Orders.CustomerID (one-to-many)
