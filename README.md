@@ -1,8 +1,8 @@
 # Final Project: Sales Performance and Digital User Churn Dashboard (Business Intelligence Analyst)
 
-This project is the final project of the Project-Based Virtual Internship Program with a specialization in Business Analyst, conducted by Rakamin x Bank Muamalat, from May 5, 2025, to June 2, 2025. 
+This project is the final project of the Project-Based Virtual Internship Program with a role as Business Intelligence Analyst, conducted by Rakamin x Bank Muamalat, from May 5, 2025, to June 2, 2025. 
 
-The final project focused on building a customer and sales analytics dashboard to provide actionable business insights using Google BigQuery and Looker Studio. Rakamin x Bank Muamalat provided data on it. 
+The final project focused on building a _Sales Performance and Digitals user Churn Dashboard_ to provide actionable business insights using Google BigQuery and Looker Studio. Rakamin x Bank Muamalat provided data on it. 
 
 ## Project Background and Overview
 In this project, we suppose that PT Sejahtera Bersama is a company engaged in the digital and technology sector that sells products, such as robots, drones, eBooks, training videos, and others. 
