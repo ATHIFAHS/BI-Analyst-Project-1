@@ -30,7 +30,7 @@ Description from the Entity Relationship Diagram
 - ProductCategory.categoryID → Products.Category (one-to-many)
 
 Note: One-To-Many → Each record in Table A can be associated with multiple records in Table B
-
+After that, combine the four tables using a query. Here's the result 
 
 ## Executive Summary
 
