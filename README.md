@@ -54,7 +54,7 @@ Below is the overview page from a Looker Dashboard
 
 ### Sales Trends Analysis
 - **Annual pattern**: In 2021, the company experienced a 7.5% decrease in sales. In this case, the decrease in total customers and new customers by 0.1% and 54.6%, respectively, as well as the high churn rate, led to a decrease in total orders and order quantities by 2.4% and 4.5%, respectively.
-- **Quarter pattern**: Peak sales occurred in Q3 2020 at approximately $250,000, marking a strong mid-year performance. After peaking in the third quarter of 2020, the company's sales continued to decline, with a significant drop in the fourth quarter of 2021, falling below $200,000. The peak for 2021 was in Q2 2021 at approximately $240,000, which is similar to Q3 2020 but reflected a decrease in overall customer retention.
+- **Quarter pattern**: Peak sales occurred in Q3 2020 at approximately $250,000, marking a strong mid-year performance. After peaking in the third quarter of 2020, the company's sales continued to decline, with a significant drop in the fourth quarter of 2021, falling below $200,000. The peak for 2021 was in Q2 2021 at approximately $240,000, which is similar to Q3 2020 but reflected a decrease in overall customer retention. Sales experienced a decline in Q4 of both years, indicating challenges in maintaining momentum as the year concluded.
 
 ![Screenshot 2025-05-31 204548](https://github.com/user-attachments/assets/b2cfc954-9aa0-4365-ae98-11912c9f2cb3)
 
