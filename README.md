@@ -31,9 +31,12 @@ Description from the Entity Relationship Diagram
 
 Note: One-To-Many → Each record in Table A can be associated with multiple records in Table B
 
-After that, combine the four tables as a master table using a query. Here's the result [Master Table](https://github.com/ATHIFAHS/BI-Analyst-Project-1/blob/40029726a4b9d022bc6a1a6ad8d10ebab8c31220/master%20table.csv)
+After that, combine the four tables as a master table using a query. Here's the result [Master Table](https://github.com/ATHIFAHS/BI-Analyst-Project-1/blob/40029726a4b9d022bc6a1a6ad8d10ebab8c31220/master%20table.csv) to create a dashboard.
 
 ## Executive Summary
+After peaking in the third quarter of 2020, the company's sales continued to decline, with a significant drop in the fourth quarter of 2021. 
+
+
 
 ## Insight Deep Down
 
