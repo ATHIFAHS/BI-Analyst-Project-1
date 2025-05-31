@@ -10,6 +10,7 @@ In this project, we suppose that PT Sejahtera Bersama is a company engaged in th
 The company had a significant amount of data on sales, products, orders, and customers. This project will thoroughly analyze and synthesize the data with the aim of finding insights that will increase the sales of the company.
 
 Insights and recommendations are provided on the following key areas:
+- **Customer Behavior**:
 - **Sales Trend Analysis**: evaluation of historical sales patterns based on product categories and city, understanding the impact of customer behavior on sales
 - **Product Performance**: an analysis of the company's various product lines, understanding the impact of order quantities and product prices on sales  
 - **City Comparison**: an evaluation of sales and order quantities by city
