@@ -10,13 +10,21 @@ In this project, we suppose that PT Sejahtera Bersama is a company engaged in th
 The company had a large amount of data on sales, products, orders, and customers. This project will thoroughly analyze and synthesize the data with the aim of finding insights that will increase the sales of the company.
 
 Insights and recommendations are provided on the following key areas:
-- 
--
-- 
+- **Sales Trend Analysis**: evaluation of historical sales patterns based on product categories and city, understanding the impact of customer behavior on sales
+- **Product Performance**: an analysis of the company's various product lines, understanding the impact of order quantities and product prices on sales  
+- **City Comparison**: an evaluation of sales and order quantities by city
 
 ## Data Structure
-There are four tables which used, such as customer, product, order, and product category tables.
-   
+The company's main database structure consists of four tables: customers, products, orders, and product category. A description of each table is as follows:
+- Customers: a total row count of 2123 records
+  
+- Products: a total row count of 70 records
+  
+- Orders: a total row count of 3339 records
+  
+- Product category: a total row count of 7 records
+  
+
 ## Executive Summary
 
 ## Insight Deep Down
