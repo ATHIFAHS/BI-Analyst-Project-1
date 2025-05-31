@@ -66,7 +66,9 @@ Below is the overview page from a Looker Dashboard
 ![Screenshot 2025-05-31 221834](https://github.com/user-attachments/assets/0ed1f422-d51f-4764-ab48-fe3ebcaf3691) 
 
 ### City Comparison
-- 
+- Washington is the city that has the highest sales among other cities from 2020 to 2021.
+- In 2021, Washington became the city with the highest number of orders, but then in 2021 it ranked second; first place was Houston, with a slight difference.
+- Sales distribution is centered in North America, followed by Europe.
 
 ![image](https://github.com/user-attachments/assets/48eee747-90c3-4a7f-b6e0-31e61f407361)
 
