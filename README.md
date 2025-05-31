@@ -11,7 +11,7 @@ The company had a significant amount of data on sales, products, orders, and cus
 
 Insights and recommendations are provided on the following key areas:
 - **Consumer Behavior**: evaluation of changes in the number of customers annually and quarterly, and churn rate to grasp the number of customers leaving the company's products, understanding of consumer behavior in buying company-provided products
-- **Sales Trend Analysis**: evaluation of historical sales patterns based on product categories and city, understanding the impact of customer behavior on sales
+- **Sales Trend Analysis**: evaluation of historical sales patterns, understanding the impact of customer behavior on sales
 - **Product Performance**: an analysis of the company's various product lines, understanding the impact of order quantities and product prices on sales  
 - **City Comparison**: an evaluation of sales and order quantities by city
 
@@ -53,10 +53,8 @@ Below is the overview page from a Looker Dashboard
 - **Changes quarterly**: The churn rate increased quarterly and consistently exceeded 80% in Q4 of 2020 and 2021, indicating a critical issue with customer retention. Despite the high turnover rate, the company managed to show a significant increase in repeat customers each quarter, with a record high of 291 repeat customers in Q4 2021. In contrast, there is a consistent decline in new customer numbers from Q1 to Q4 in both years. There is a clear quarterly trend where Q3 of 2020 had the highest total customers, while Q2 of 2021 similarly had high numbers.
 
 ### Sales Trends and Insights
-- **Annual pattern**: In 2021, the company experienced a 7.5% decrease in sales. This is due to a decrease in total orders by 2.4%, total order quantity by 4.5%, total customers by 0.1%, and total new customers by 54.6%, as well as a high churn rate.
-- **Quarter pattern**: After peaking in the third quarter of 2020, the company's sales continued to decline, with a significant drop in the fourth quarter of 2021.
-- **Based on product categories**: 
-- **Based on City**: 
+- **Annual pattern**: In 2021, the company experienced a 7.5% decrease in sales. In this case, the decrease in total customers and new customers by 0.1% and 54.6%, respectively, as well as the high churn rate, led to a decrease in total orders and order quantities by 2.4% and 4.5%, respectively.
+- **Quarter pattern**: Peak sales occurred in Q3 2020 at approximately $250,000, marking a strong mid-year performance. After peaking in the third quarter of 2020, the company's sales continued to decline, with a significant drop in the fourth quarter of 2021, falling below $200,000. The peak for 2021 was in Q2 2021 at approximately $240,000, which is similar to Q3 2020 but reflected a decrease in overall customer retention.
 
 ![Image](https://github.com/user-attachments/assets/04a216f1-e210-4cf9-a88e-618fce1ac0e3)
 ### Product Performance
