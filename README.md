@@ -66,9 +66,9 @@ Below is the overview page from a Looker Dashboard
 ![Screenshot 2025-05-31 221834](https://github.com/user-attachments/assets/0ed1f422-d51f-4764-ab48-fe3ebcaf3691) 
 
 ### City Comparison
-- knk
+- 
 
-![Screenshot 2025-05-31 022448](https://github.com/user-attachments/assets/c8f8b826-963e-40d4-9621-f81c1dbeec71) ![Screenshot 2025-05-31 230532](https://github.com/user-attachments/assets/99e990aa-24dd-448f-8f0c-54ebe9e4d416)
+![image](https://github.com/user-attachments/assets/3e5e10ba-8462-414c-8a67-cde1c035bcc9)
 
 
 ## Recommendations
