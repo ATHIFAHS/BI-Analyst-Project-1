@@ -68,8 +68,7 @@ Below is the overview page from a Looker Dashboard
 ### City Comparison
 - 
 
-![image](https://github.com/user-attachments/assets/3e5e10ba-8462-414c-8a67-cde1c035bcc9)
-
+![image](https://github.com/user-attachments/assets/48eee747-90c3-4a7f-b6e0-31e61f407361)
 
 ## Recommendations
 Based on the insights and findings above, we would recommend marketing team consider the following:
