@@ -53,7 +53,7 @@ Below is the overview page from a Looker Dashboard
 - **Changes quarterly**: The churn rate increased quarterly and consistently exceeded 80% in Q4 of 2020 and 2021, indicating a critical issue with customer retention. Despite the high turnover rate, the company managed to show a significant increase in repeat customers each quarter, with a record high of 291 repeat customers in Q4 2021. In contrast, there is a consistent decline in new customer numbers from Q1 to Q4 in both years. There is a clear quarterly trend where Q3 of 2020 had the highest total customers, while Q2 of 2021 similarly had high numbers.
 
 ### Sales Trends
-
+![Image](https://github.com/user-attachments/assets/276ee57c-0efd-4931-bd19-52153a39d375)
 
 ### Product Performance
 
