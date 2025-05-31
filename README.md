@@ -51,8 +51,7 @@ Below is the overview page from a Looker Dashboard
 ### Consumer Behavior 
 - **Changes annually**: the total customers declined by 0.1% from 2020 to 2021, but the repeat customers increased by 149%. Despite the increase in repeat customers, the churn rate was at a high level of 45.6%. 
 - **Changes quarterly**:
-    a. The churn rate is increasing quarterly and consistently exceeded 80% in Q4 of 2020 and 2021, indicating a critical issue with customer retention.
-    b. 
+-     The churn rate is increasing quarterly and consistently exceeded 80% in Q4 of 2020 and 2021, indicating a critical issue with customer retention.
 
 ### Sales Trends
 
