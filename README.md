@@ -59,12 +59,13 @@ Below is the overview page from a Looker Dashboard
 ![Screenshot 2025-05-31 204548](https://github.com/user-attachments/assets/b2cfc954-9aa0-4365-ae98-11912c9f2cb3)
 
 ### Product Performance
-- **Order quantities**: 
-- **Total sales**: 
+- **Order quantities**: 44.6% of the company's orders came from eBooks and training videos, indicating high consumer interest in digital content. It was characterized by an increase in orders for eBooks from 2020 to 2021, along with a decrease in orders for other products. 
+- **Total sales**: 70% of the company's sales come from robots and drones, indicating a growing interest in aerial technology. This is inversely proportional to the number of orders, as eBooks are low-priced products.
+- The analysis indicates a clear hierarchy in sales and order quantities among various product categories, with Robots leading in total sales and eBooks topping in order quantity. 
 
 ![Screenshot 2025-05-31 221834](https://github.com/user-attachments/assets/0ed1f422-d51f-4764-ab48-fe3ebcaf3691)
 
 ### City Comparison
 
 ## Recommendations
-Based on the insights and findings above, we would recommend the marketing team to consider the following:
+Based on the insights and findings above, we would recommend marketing team consider the following:
