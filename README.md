@@ -10,7 +10,7 @@ In this project, we suppose that PT Sejahtera Bersama is a company engaged in th
 The company had a significant amount of data on sales, products, orders, and customers. This project will thoroughly analyze and synthesize the data with the aim of finding insights that will increase the sales of the company.
 
 Insights and recommendations are provided on the following key areas:
-- **Consumer Behavior**: evaluation of customer growth and churn rate to to grasp the number of customers leaving the company's products, understanding of consumer behavior in buying company-provided products
+- **Consumer Behavior**: evaluation of changes in the number of customers annually and quarterly, and churn rate to grasp the number of customers leaving the company's products, understanding of consumer behavior in buying company-provided products
 - **Sales Trend Analysis**: evaluation of historical sales patterns based on product categories and city, understanding the impact of customer behavior on sales
 - **Product Performance**: an analysis of the company's various product lines, understanding the impact of order quantities and product prices on sales  
 - **City Comparison**: an evaluation of sales and order quantities by city
@@ -49,7 +49,9 @@ Below is the overview page from a Looker Dashboard
 
 ## Insight Deep Down
 ### Consumer Behavior 
-
+- **Changes annually**: 
+- **Changes quarterly in 2020**:
+- **Changes quarterly in 2021**:
 
 ### Sales Trends
 
