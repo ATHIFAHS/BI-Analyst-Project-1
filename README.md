@@ -54,7 +54,9 @@ Below is the overview page from a Looker Dashboard
 
 ### Sales Trends and Insights
 - **Annual pattern**: In 2021, the company experienced a 7.5% decrease in sales. This is due to a decrease in total orders by 2.4%, total order quantity by 4.5%, total customers by 0.1%, and total new customers by 54.6%, as well as a high churn rate.
-- **Quarter pattern**: After peaking in the third quarter of 2020, the company's sales continued to decline, with a significant drop in the fourth quarter of 2021. 
+- **Quarter pattern**: After peaking in the third quarter of 2020, the company's sales continued to decline, with a significant drop in the fourth quarter of 2021.
+- **Based on product categories**: 
+- **Based on City**: 
 
 ![Image](https://github.com/user-attachments/assets/04a216f1-e210-4cf9-a88e-618fce1ac0e3)
 ### Product Performance
