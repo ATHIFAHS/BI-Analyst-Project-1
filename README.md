@@ -17,20 +17,10 @@ Insights and recommendations are provided on the following key areas:
 ## Data Structure
 The company's main database structure consists of four tables: customers, products, orders, and product categories. A description of each table is as follows:
 - Customers: a total row count of 2123 records
-
-  <a href="url"><img scr="https://github.com/user-attachments/assets/b6ae7edf-b432-4068-8cc4-5db3f040ea1a" width="150" height="280">
 - Products: a total row count of 70 records
-
-  <a href="url"><img scr="https://github.com/user-attachments/assets/d6f9f813-7705-4f86-9854-f9a2b92a26ac" width="150" height="280">
 - Orders: a total row count of 3339 records
-
-  <a href="url"><img scr="https://github.com/user-attachments/assets/aef68248-ba82-468b-ac0d-9609090acdcc" width="150" height="280">
 - Product categories: a total row count of 7 records
-
-  <a href="url"><img scr="https://github.com/user-attachments/assets/2289f0a4-df4e-42e7-afd1-8eedae293cdb" width="150" height="280">
-
 The entity relationship diagram (ERD) shown below
-<a href="url"><img scr="https://github.com/user-attachments/assets/2955899e-02d3-49cf-82de-5fdb53f0bc2b" width="150" height="280">
 
 Description from the Entity Relationship Diagram beside
 - Customers.CustomerID → Orders.CustomerID (one-to-many)
