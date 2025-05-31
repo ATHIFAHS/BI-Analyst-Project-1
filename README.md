@@ -45,7 +45,7 @@ After peaking in the third quarter of 2020, the company's sales continued to dec
 
 Below is the overview page from a Looker Dashboard 
 
-![Image](https://github.com/user-attachments/assets/09d2bd2d-70c0-4aee-9fd3-849efc573529)
+![image](https://github.com/user-attachments/assets/8a763175-06d7-4df3-ad78-c6db399cb2c2)
 
 ## Insight Deep Down
 ### Consumer Behavior 
