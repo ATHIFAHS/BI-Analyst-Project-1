@@ -30,7 +30,8 @@ Description from the Entity Relationship Diagram
 - ProductCategory.categoryID → Products.Category (one-to-many)
 
 Note: One-To-Many → Each record in Table A can be associated with multiple records in Table B
-After that, combine the four tables using a query. Here's the result 
+
+After that, combine the four tables as a master table using a query. Here's the result [Master Table](https://github.com/ATHIFAHS/BI-Analyst-Project-1/blob/40029726a4b9d022bc6a1a6ad8d10ebab8c31220/master%20table.csv)
 
 ## Executive Summary
 
