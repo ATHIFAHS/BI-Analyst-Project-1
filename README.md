@@ -59,7 +59,10 @@ Below is the overview page from a Looker Dashboard
 ![Screenshot 2025-05-31 204548](https://github.com/user-attachments/assets/b2cfc954-9aa0-4365-ae98-11912c9f2cb3)
 
 ### Product Performance
+- **Order quantities**: 
+- **Total sales**: 
 
+![Screenshot 2025-05-31 221834](https://github.com/user-attachments/assets/0ed1f422-d51f-4764-ab48-fe3ebcaf3691)
 
 ### City Comparison
 
