@@ -15,6 +15,10 @@ Insights and recommendations are provided on the following key areas:
 - **Product Performance**: an analysis of the company's various product lines, understanding the impact of order quantities and product prices on sales  
 - **City Comparison**: an evaluation of sales and order quantities by city
 
+The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+Targeted SQL queries regarding various business questions can be found here [link].
+An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+
 ## Data Structure
 The company's main database structure consists of four tables: customers, products, orders, and product categories. A description of each table is as follows:
 - Customers: a total row count of 2123 records
