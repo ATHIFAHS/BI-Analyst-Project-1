@@ -2,7 +2,7 @@
 
 This project is the final project of the Project-Based Virtual Internship Program with a role as Business Intelligence Analyst, conducted by Rakamin x Bank Muamalat, from May 5, 2025, to June 2, 2025. 
 
-The final project focused on building a _Sales Performance and Digitals user Churn Dashboard_ to provide actionable business insights using Google BigQuery and Looker Studio. Rakamin x Bank Muamalat provided data on it. 
+The final project focused on building a _Sales Performance and Digital User Churn Dashboard_ to provide actionable business insights using Google BigQuery and Looker Studio. Rakamin x Bank Muamalat provided data on it. 
 
 ## Project Background and Overview
 In this project, we suppose that PT Sejahtera Bersama is a company engaged in the digital and technology sector that sells products, such as robots, drones, eBooks, training videos, and others. 
@@ -66,6 +66,9 @@ Below is the overview page from a Looker Dashboard
 ![Screenshot 2025-05-31 221834](https://github.com/user-attachments/assets/0ed1f422-d51f-4764-ab48-fe3ebcaf3691)
 
 ### City Comparison
+- knk
+
+![Screenshot 2025-05-31 022448](https://github.com/user-attachments/assets/c8f8b826-963e-40d4-9621-f81c1dbeec71)
 
 ## Recommendations
 Based on the insights and findings above, we would recommend marketing team consider the following:
