@@ -15,7 +15,7 @@ Insights and recommendations are provided on the following key areas:
 - **Product Performance**: an analysis of the company's various product lines, understanding the impact of order quantities and product prices on sales  
 - **City Comparison**: an evaluation of sales and order quantities by city
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+The SQL queries used to inspect and clean the data for this analysis can be found here [link](https://github.com/ATHIFAHS/BI-Analyst-Project-1/blob/784adb1cf0eaab6d85b31f78641e9d06d0bcd62c/BI%20Analyst%20Project%20Query.sql).
 Targeted SQL queries regarding various business questions can be found here [link].
 An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
 
