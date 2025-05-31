@@ -73,4 +73,12 @@ Below is the overview page from a Looker Dashboard
 ![image](https://github.com/user-attachments/assets/48eee747-90c3-4a7f-b6e0-31e61f407361)
 
 ## Recommendations
-Based on the insights and findings above, we would recommend marketing team consider the following:
+Based on the insights and findings above, we would recommend the marketing team consider the following:
+- Introduce a loyalty program
+- Establish a structured system for gathering customer feedback to identify areas for product improvement and service enhancement
+- Create specific marketing campaigns aimed at re-engaging lapsed customers or addressing issues highlighted in customer feedback
+
+Based on the insights and findings above, we would recommend the sales team consider the following:
+- Identify customers who haven’t purchased recently and develop targeted strategies to win them back. Consider special offers or tailored communications based on insights from the marketing team.
+- Work closely with the marketing team to ensure sales efforts align with new targeted marketing campaigns aimed at customer retention. Share field insights that can help refine marketing messages and approaches.
+- Ensure that the sales team is well-informed about the features and benefits of any loyalty programs. Actively promote these programs during sales interactions to incentivize repeat purchases.
