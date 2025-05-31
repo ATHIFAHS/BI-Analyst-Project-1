@@ -36,6 +36,7 @@ Description from the Entity Relationship Diagram beside
 - Customers.CustomerID → Orders.CustomerID (one-to-many)
 - Products.ProductNumber → Orders.ProductNumber (one-to-many)
 - ProductCategory.categoryID → Products.Category (one-to-many)
+
 Note: One-To-Many → Each record in Table A can be associated with multiple records in Table B
 
 ## Executive Summary
