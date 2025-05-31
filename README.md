@@ -34,9 +34,11 @@ Note: One-To-Many → Each record in Table A can be associated with multiple rec
 After that, combine the four tables as a master table using a query. Here's the result [Master Table](https://github.com/ATHIFAHS/BI-Analyst-Project-1/blob/40029726a4b9d022bc6a1a6ad8d10ebab8c31220/master%20table.csv) to create a dashboard.
 
 ## Executive Summary
-After peaking in the third quarter of 2020, the company's sales continued to decline, with a significant drop in the fourth quarter of 2021. 
+After peaking in the third quarter of 2020, the company's sales continued to decline, with a significant drop in the fourth quarter of 2021. Key performance indicators affecting sales have all shown year-over-year decreases: total orders by 2.4%, total order quantities by 4.5%, total customers by 0.1%, and total new customers by 54.6%. The churn rate is 45.6% annually, indicating that a large number of customers are leaving, which normally needs to be below 20% to be considered low.  In this case, user churn itself also directly affects the company's sales. 
 
+Below is the overview page from a Looker Dashboard 
 
+![Image](https://github.com/user-attachments/assets/09d2bd2d-70c0-4aee-9fd3-849efc573529)
 
 ## Insight Deep Down
 
