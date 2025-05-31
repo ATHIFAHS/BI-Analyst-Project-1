@@ -19,7 +19,7 @@ The SQL queries used to inspect and clean the data for this analysis can be foun
 
 Custom SQL queries to Looker regarding customer key metrics can be found here [link](https://github.com/ATHIFAHS/BI-Analyst-Project-1/blob/d6bfa95e4b2ba9c135d08ce29b2b1790f58be105/Custom%20Query%20on%20Looker.txt).
 
-An interactive Looker dashboard used to report and explore sales trends and user churn can be found here [link]().
+An interactive Looker dashboard used to report and explore sales trends and user churn can be found here [link](https://github.com/ATHIFAHS/BI-Analyst-Project-1/blob/97dfa8954f142bfbba062c7e86674e2ec9e834ef/Sales%20Performance%20and%20Digitals%20User%20Churn%20Dashboard.pdf).
 
 ## Data Structure
 The company's main database structure consists of four tables: customers, products, orders, and product categories. A description of each table is as follows:
