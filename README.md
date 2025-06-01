@@ -7,13 +7,13 @@ The final project focused on building a _Sales Performance and Digital User Chur
 ## Project Background and Overview
 In this project, we suppose that PT Sejahtera Bersama is a company engaged in the digital and technology sector that sells products, such as robots, drones, eBooks, training videos, and others. 
 
-The company had a significant amount of data on sales, products, orders, and customers. This project will thoroughly analyze and synthesize the data with the aim of finding insights that will increase the sales of the company.
+The company had a significant amount of data on sales, products, orders, and customers. This project will thoroughly analyze and synthesize the data to identify insights that will enhance the company's sales. This insight will be used to inform the marketing, product, and sales teams across the company on the opportune area of improvement.
 
 Insights and recommendations are provided on the following key areas:
-- **Consumer Behavior**: evaluation of changes in the number of customers annually and quarterly, and churn rate to grasp the number of customers leaving the company's products, understanding of consumer behavior in buying company-provided products
-- **Sales Trend Analysis**: evaluation of historical sales patterns, understanding the impact of customer behavior on sales
+- **Consumer Retention and Acquisition**: evaluation of changes in the number of customers annually and quarterly, and churn rate to grasp the number of customers leaving the company's products, understanding of consumer behavior in buying company-provided products
+- **Sales Trend Analysis**: investigating trends in YoY and QoQ sales, understanding the impact of consumer behavior on sales
 - **Product Performance**: an analysis of the company's various product lines, understanding the impact of order quantities and product prices on sales  
-- **City Comparison**: an evaluation of sales and order quantities by city
+- **City Segmentation**: an evaluation of sales and order quantities by city
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link](https://github.com/ATHIFAHS/BI-Analyst-Project-1/blob/784adb1cf0eaab6d85b31f78641e9d06d0bcd62c/BI%20Analyst%20Project%20Query.sql).
 
