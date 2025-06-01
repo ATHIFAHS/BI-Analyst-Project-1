@@ -7,7 +7,7 @@ The final project focused on building a _Sales Performance and Digital User Chur
 ## Project Background and Overview
 In this project, we suppose that PT Sejahtera Bersama is a company engaged in the digital and technology sector that sells products, such as robots, drones, eBooks, training videos, and others. 
 
-The company had a significant amount of data on sales, products, orders, and customers. This project will thoroughly analyze and synthesize the data to identify insights that will enhance the company's sales. This insight will be used to inform the marketing, product, and sales teams across the company on the opportune area of improvement.
+The company had a significant amount of data on sales, products, orders, and customers. This project will thoroughly analyze and synthesize the data to identify insights that will enhance the company's sales. This insight will be used to inform the marketing and sales teams across the company on the opportune area of improvement.
 
 The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/ATHIFAHS/BI-Analyst-Project-1/blob/784adb1cf0eaab6d85b31f78641e9d06d0bcd62c/BI%20Analyst%20Project%20Query.sql). Custom SQL queries to Looker regarding customer key metrics can be found here [here](https://github.com/ATHIFAHS/BI-Analyst-Project-1/blob/d6bfa95e4b2ba9c135d08ce29b2b1790f58be105/Custom%20Query%20on%20Looker.txt). An interactive Looker dashboard used to report and explore sales trends and user churn can be found here [here](https://github.com/ATHIFAHS/BI-Analyst-Project-1/blob/97dfa8954f142bfbba062c7e86674e2ec9e834ef/Sales%20Performance%20and%20Digitals%20User%20Churn%20Dashboard.pdf).
 
