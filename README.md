@@ -62,10 +62,10 @@ Below is the overview page from a Looker Dashboard
 ![Screenshot 2025-05-31 221834](https://github.com/user-attachments/assets/0ed1f422-d51f-4764-ab48-fe3ebcaf3691) 
 
 ### City Comparison
-- 90% sales are centered in USA, followed by UK, spread across 361 cities. 
+- 90% of sales are concentrated in the United States, followed by the United Kingdom, and spread throughout 361 cities, with eBooks being the best-selling product throughout the cities.  
 - Washington has the greatest sales among all cities from 2020 to 2021. In this city, eBooks and robots were the best-selling products, but the products with the highest sales are robots and drones. This suggests that the city is interested in both digital products and technology.
 - Washington became the city with the most orders in 2020, but it dropped to second position in 2021; Houston took top place, with a little difference.
-- Houston's best-selling products include e-books and drone equipment. So, even though the number of orders increased in this city, the income did not exceed that of Washington because robots, the most expensive product, became the least-sold product. This similarly holds relevant in other cities.
+- Houston's best-selling products include e-books and drone equipment. So, even though the number of orders increased in this city, the sales did not exceed those of Washington because robots, the most expensive product, became the least-sold product. This similarly holds relevant in other cities.
 
 ![image](https://github.com/user-attachments/assets/48eee747-90c3-4a7f-b6e0-31e61f407361)
 
