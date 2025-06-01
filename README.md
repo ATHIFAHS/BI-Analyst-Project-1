@@ -46,9 +46,10 @@ Below is the overview page from a Looker Dashboard
 
 ## Insight Deep Down
 ### Consumer Behavior 
-- **Changes annually**: Total customers declined by 0.1% between 2020 and 2021, but recurring customers climbed by 149%. Despite an increase in recurring clients, the churn rate remained high at 45.6%. In this situation, the company is having difficulty maintaining existing clients and acquiring new ones.
+* **Changes annually**: Total customers declined by 0.1% between 2020 and 2021, but recurring customers climbed by 149%. Despite an increase in recurring clients, the churn rate remained high at 45.6%. In this situation, the company is having difficulty maintaining existing clients and acquiring new ones.
 * **Changes quarterly**:
-              * The churn rate increased quarterly and consistently exceeded 80% in Q4 of 2020 and 2021, indicating a critical issue with customer retention. Despite the high turnover rate, the company managed to show a significant increase in repeat customers each quarter, with a record high of 291 repeat customers in Q4 2021. In contrast, there is a consistent decline in new customer numbers from Q1 to Q4 in both years. There is a clear quarterly trend where Q3 of 2020 had the highest total customers, while Q2 of 2021 similarly had high numbers. But it always drops dramatically in Q4 each year, indicating a lack of customer interest in purchasing digital and technology products during the holiday season.
+              * The churn rate increased quarterly and consistently exceeded 80% in Q4 of 2020 and 2021, indicating a critical issue with customer retention.
+              * Despite the high turnover rate, the company managed to show a significant increase in repeat customers each quarter, with a record high of 291 repeat customers in Q4 2021. In contrast, there is a consistent decline in new customer numbers from Q1 to Q4 in both years. There is a clear quarterly trend where Q3 of 2020 had the highest total customers, while Q2 of 2021 similarly had high numbers. But it always drops dramatically in Q4 each year, indicating a lack of customer interest in purchasing digital and technology products during the holiday season.
 
 ### Sales Trends Analysis
 - **Annual pattern**: In 2021, a 0.1% decline in total customers and a 54.6% decrease in new customers, along with a high churn rate, resulted in a 2.4% and 4.5% decrease in total orders and order quantity, respectively. As a result, revenues decreased by 7.5%, showing that the corporation faces difficulty in expanding annual sales. 
