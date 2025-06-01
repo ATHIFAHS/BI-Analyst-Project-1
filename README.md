@@ -56,16 +56,15 @@ Below is the overview page from a Looker Dashboard
 ![Screenshot 2025-05-31 204548](https://github.com/user-attachments/assets/b2cfc954-9aa0-4365-ae98-11912c9f2cb3)
 
 ### Product Performance
-- **Order quantities**: 44.6% of the company's orders came from eBooks and training videos, indicating high consumer interest in digital content. It was characterized by an increase in orders for eBooks from 2020 to 2021, along with a decrease in orders for other products. 
-- **Total sales**: 70% of the company's sales come from robots and drones, indicating a growing interest in aerial technology. 
-- The analysis indicates a clear hierarchy in sales and order quantities among various product categories, with Robots leading in total sales and eBooks topping in order quantity. This is inversely proportional to the number of orders, as eBooks are low-priced products.
+- 44.6% of the company's orders came from eBooks and training videos, indicating high consumer interest in digital content. It was characterized by an increase in orders for eBooks from 2020 to 2021, along with a decrease in orders for other products. Although eBooks are the top-selling product, it does not mean that eBooks will generate the highest sales, due to the low price of the product compared to others.
+- 70% of the company's sales come from technology products, especially robots and drones, despite becoming the lowest-selling products. In Q3 of 2020, technology products were at a notable peak. The sales for robots were around $125000, indicating strong demand.
 
 ![Screenshot 2025-05-31 221834](https://github.com/user-attachments/assets/0ed1f422-d51f-4764-ab48-fe3ebcaf3691) 
 
 ### City Comparison
+- 90% sales are centered in USA, followed by UK, spread across 361 cities. 
 - Washington is the city that has the highest sales among other cities from 2020 to 2021.
 - In 2021, Washington became the city with the highest number of orders, but then in 2021 it ranked second; first place was Houston, with a slight difference.
-- Sales distribution is centered in North America, followed by Europe.
 
 ![image](https://github.com/user-attachments/assets/48eee747-90c3-4a7f-b6e0-31e61f407361)
 
