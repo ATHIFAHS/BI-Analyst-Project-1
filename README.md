@@ -16,7 +16,7 @@ Insights and recommendations are provided on the following key areas:
 - **Consumer Retention and Acquisition**: evaluation of changes in the number of customers annually and quarterly, and churn rate to grasp the number of customers leaving the company's products, understanding of consumer behavior in buying company-provided products
 - **Sales Trend Analysis**: investigating trends in YoY and QoQ sales, understanding the impact of consumer behavior on sales
 - **Product Performance**: an analysis of the company's various product lines, understanding the impact of order quantities and product prices on sales  
-- **City Segmentation**: an evaluation of sales and order quantities by city
+- **City Comparison**: an evaluation of sales and order quantities by city
 
 ## Data Structure
 The company's main database structure consists of four tables: customers, products, orders, and product categories. A description of each table is as follows:
@@ -64,7 +64,7 @@ Below is the overview page from a Looker Dashboard
 ### City Comparison
 - 90% sales are centered in USA, followed by UK, spread across 361 cities. 
 - Washington is the city that has the highest sales among other cities from 2020 to 2021. Top-selling products in this city were eBooks and robots, but the products with the highest sales are robots and drones. This indicates that this city has an interest in digital products and technology at the same time.
-- In 2021, Washington became the city with the highest number of orders, but then in 2021 it ranked second; first place was Houston, with a slight difference. 
+- In 2020, Washington became the city with the highest number of orders, but then in 2021 it ranked second; first place was Houston, with a slight difference. 
 
 ![image](https://github.com/user-attachments/assets/48eee747-90c3-4a7f-b6e0-31e61f407361)
 
